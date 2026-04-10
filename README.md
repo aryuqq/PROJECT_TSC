@@ -96,6 +96,11 @@ Design considerations
   Filtrare alimentare senzori
   Rutare SPI comuna
   Protectie baterie
+
+
+  Am fost nevoita sa dau gauri in componente si din aceasta cauza am avut overlapuri
+  De asemenea am redus grosimea unor fire de la 0.3 la 0.15 pentru a nu avea erori de overlap
+  Restul erorilor de overlap sunt din pricina coordonatelor date pentru componentele prestabilite
   
 
 
